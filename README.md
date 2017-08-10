@@ -1,5 +1,5 @@
 # analyzing-contacts-py-script
-This python script analize contact numbers
+This python script analyze contact numbers
 
 For getting contacts list from phone do above intrusction:</br>
 Contacts==>Menu==>Exports contacts==>"select where do you want save .vcf file"
